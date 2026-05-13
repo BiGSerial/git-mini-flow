@@ -578,3 +578,8 @@ Nesses casos, o script pode ser adaptado ou usado apenas parcialmente.
 
 ---
 
+## Licença
+
+Este projeto está licenciado sob a licença MIT.
+
+Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
