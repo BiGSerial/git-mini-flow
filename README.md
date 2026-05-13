@@ -578,26 +578,3 @@ Nesses casos, o script pode ser adaptado ou usado apenas parcialmente.
 
 ---
 
-## Licença
-
-Defina a licença conforme o objetivo do projeto.
-
-Sugestões comuns:
-
-- MIT, para permitir reutilização livre;
-- uso interno, se for ferramenta privada;
-- GPL, se quiser exigir que derivados também sejam livres.
-
----
-
-## Nome sugerido do repositório
-
-```text
-git-mini-flow
-```
-
-Descrição curta:
-
-```text
-Automação Bash para Git Flow simplificado com aliases, hotfix, release, pause/resume e cleanup.
-```
